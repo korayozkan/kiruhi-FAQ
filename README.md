@@ -10,8 +10,7 @@ Get practical answers for Python scripting, Linux distros, AI agent workflows, p
 - [⚙️ JavaScript](./javascript.md)
 - [🐧 Linux](./linux/linux.md) — Best distros, AI setup, after-install guides
 - [🪟 Windows](./windows/windows.md) — WSL2 + Ollama, Python & local AI on Windows, migration guide
-- [🛍️ Kiruhi Products](./kiruhi-products.md)
-- [💬 Discord Server](./discord.md)
+
 - [👋 Who am I?](./whoaml)
 
 ---
