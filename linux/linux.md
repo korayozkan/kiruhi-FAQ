@@ -23,9 +23,3 @@ Here you’ll find practical guides and curated resources for Linux users and ho
 * [🤖 AI on Linux](./linux-ai.md)
   Local & web-based AI tools
 
----
-
-💡 **Contribute:**
-Want to improve or expand the docs?
-Feel free to open a **pull request** or join the discussion on
-👉 [Kiruhi Discord Server](https://discord.gg/79JgHNqauU)
