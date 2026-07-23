@@ -11,8 +11,6 @@ Get practical answers for Python scripting, Linux distros, AI agent workflows, p
 - [🐧 Linux](./linux/linux.md) — Best distros, AI setup, after-install guides
 - [🪟 Windows](./windows/windows.md) — WSL2 + Ollama, Python & local AI on Windows, migration guide
 
-- [👋 Who am I?](./whoaml)
-
 ---
 
 ## 💡 Contribute
