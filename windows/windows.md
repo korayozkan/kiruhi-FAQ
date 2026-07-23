@@ -14,8 +14,4 @@ Here you’ll find practical guides and curated resources for Windows users, Pyt
 * [🖌️ Customization](./customization.md)  
   Ricing, themes & make your desktop look pro
 
----
-💡 **Contribute:**
-Want to improve or expand the docs?  
-Feel free to open a **pull request** or join the discussion on  
-👉 [Kiruhi Discord Server](https://discord.gg/79JgHNqauU)
+
